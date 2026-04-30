@@ -4,7 +4,7 @@
     "url": "https://alprimus.com/login",
     "icon": "https://icons.duckduckgo.com/ip3/alprimus.com.ico",
     "slug": "alprimus-login",
-    "status": "up",
+    "status": "down",
     "uptime": "99.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 877,
     "timeYear": 1031,
     "dailyMinutesDown": {
+      "2026-04-30": 0,
       "2025-12-04": 19,
       "2025-11-18": 91,
       "2025-08-27": 24,
